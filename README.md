@@ -34,4 +34,4 @@ Penjelasan Program 4
 ![](hasil.jpg)
 
 berikut saya tampilkan diagram flowchart:
-![](Flowchart.vsdx)
+![](diagram%20alir.jpg)
