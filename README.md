@@ -31,3 +31,7 @@ Penjelasan Program 4
 9.Lalu Program akan mengoutputkan semua data yang telah di olah.
 
 10.Program selesai.
+![](hasil.jpg)
+
+berikut saya tampilkan diagram flowchart:
+![](Flowchart.vsdx)
